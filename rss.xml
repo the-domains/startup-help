@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[startup help]]></title>
         <description><![CDATA[startup help]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/startup-help/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 23:32:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 23:47:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/startup-help/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/714804fb-5add-4405-8a8e-f7da428b0ddf.png">]]></description>
+            <link>https://thegrid.ai/startup-help/469ee31f-5a75-4dd8-8372-e1423a987117/index.html</link>
+            <guid isPermaLink="false">469ee31f-5a75-4dd8-8372-e1423a987117</guid>
+            <pubDate>Mon, 18 Jan 2016 23:47:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Clients]]></title>
-            <description><![CDATA[<article><h1>Clients</h1><p>References</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc5fa04-934c-47cb-ae13-f1d73a4f7685.jpg"></article>]]></description>
-            <link>undefinedclients/index.html</link>
+            <description><![CDATA[<article><h1>Clients</h1><p>References</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4b25b8de852edfc2cff2de862278d3e79c0515d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/startup-help/clients/index.html</link>
             <guid isPermaLink="false">bd83b2cc-a7de-4f60-9a1b-baac5fc5e227</guid>
             <pubDate>Mon, 18 Jan 2016 23:32:36 GMT</pubDate>
         </item>
