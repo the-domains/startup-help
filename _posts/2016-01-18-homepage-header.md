@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Homepage description text '
-datePublished: '2016-01-19T00:03:02.757Z'
+datePublished: '2016-01-19T00:03:02.728Z'
 dateModified: '2016-01-19T00:02:58.960Z'
 title: Homepage header
 author: []
