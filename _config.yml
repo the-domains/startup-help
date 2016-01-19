@@ -1,7 +1,7 @@
 name: startup help
 favicon: null
-layout_spectrum: 0.51455
-typography_spectrum: 0.7791417492553592
+layout_spectrum: 0
+typography_spectrum: 0.31837
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.625
-  lightness: 0.3125
-  saturation: 0.592996823368594
-  rhythmicContrast: 0.660790951224044
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
